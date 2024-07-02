@@ -14,7 +14,7 @@ Tuple is one of 4 built-in data types in Python used to store collections of dat
 A dictionary is a collection which is ordered*, changeable and do not allow duplicates.
 
 #### Google COLAB LINK Below
-#### For more Details Link: https://colab.research.google.com/drive/1X_UPuq6hUPU5ClWisWOFLAigCWX3QgJV
+#### For more Details Link: (https://colab.research.google.com/drive/1G5UXWgTUI4JnHYC5WaE5Vonr_qekryvD#scrollTo=YAjh_Y9q21pW)
 
 
 #### By Virupakshi - (virukannada2018@gmail.com)
